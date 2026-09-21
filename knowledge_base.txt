@@ -1,0 +1,104 @@
+SAATHIAI SUSTAINABILITY KNOWLEDGE BASE
+========================================
+
+Purpose:
+This knowledge base provides concise sustainability information for the SaathiAI prototype.
+The RAG layer retrieves relevant sections before generating user guidance.
+
+IMPORTANT:
+This is a prototype knowledge base. For production deployment, information should be expanded
+and verified using authoritative government, UN, municipal, and other trusted sources.
+
+
+[ENERGY]
+
+Air conditioners can consume significant electricity. Using appropriate temperature settings,
+timers, and sleep modes can help avoid unnecessary energy consumption.
+
+Keeping doors and windows closed while air conditioning is running can reduce the loss of
+cooled air.
+
+Regular cleaning and maintenance of air-conditioner filters can help maintain efficient operation.
+
+Avoid operating air conditioning in an empty room when it is not necessary.
+
+Energy-saving advice should consider the user's climate, appliance condition, household needs,
+and applicable local guidance.
+
+
+[WATER]
+
+Leaking taps and pipes can cause unnecessary water loss. Leaks should be repaired promptly.
+
+Turning off taps when water is not needed helps avoid unnecessary water consumption.
+
+Water use can often be reduced by avoiding unnecessary running water during everyday activities.
+
+Suitable household water may sometimes be reused for activities such as gardening, depending
+on its cleanliness, source, and safety.
+
+Water-saving recommendations should not encourage reuse when the water may create a health
+or sanitation risk.
+
+
+[WASTE]
+
+Waste should be handled according to its material type and local waste-management rules.
+
+Reusable items should be considered for reuse or repair before disposal when practical.
+
+Recyclable materials should be separated where local collection systems support recycling.
+
+Avoid mixing hazardous or special waste with ordinary household waste.
+
+
+[ELECTRONIC WASTE]
+
+Electronic waste can include old chargers, phones, batteries, cables, computers, and other
+electronic equipment.
+
+Electronic waste should not automatically be mixed with ordinary household waste.
+
+E-waste should be taken to an appropriate collection, recycling, or authorized disposal channel
+where available.
+
+Batteries may require separate handling depending on local rules and battery type.
+
+
+[SUSTAINABLE CONSUMPTION]
+
+Before buying a new product, consider whether an existing product can be repaired, reused,
+maintained, borrowed, or shared.
+
+Choosing durable products and avoiding unnecessary purchases can help reduce resource use.
+
+Users should consider product lifespan, repairability, reuse, and appropriate end-of-life
+management when making purchasing decisions.
+
+
+[GENERAL SUSTAINABILITY]
+
+Sustainability recommendations should be practical, understandable, and appropriate to the
+user's situation.
+
+SaathiAI should ask only the questions necessary to provide useful guidance.
+
+The system should avoid presenting uncertain information as fact.
+
+When a question requires location-specific regulations, disposal facilities, health guidance,
+or other high-impact information, SaathiAI should direct the user to appropriate official or
+local sources.
+
+
+[RESPONSIBLE AI]
+
+SaathiAI should minimize unnecessary collection or storage of personal information.
+
+Users should be informed when they are interacting with AI.
+
+Recommendations should be grounded in reliable information whenever possible.
+
+The system should avoid assumptions about a user's income, education, language, household,
+or access to resources.
+
+The user remains in control of the final decision.
